@@ -1,0 +1,233 @@
+.image,
+.image12Icon {
+  width: 404px;
+  height: 501px;
+}
+.image12Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.image {
+  top: 81px;
+  left: 2px;
+  cursor: pointer;
+}
+.bg,
+.image,
+.sliderIcon {
+  position: absolute;
+}
+.bg {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-45xl) 0 0 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 262px;
+}
+.sliderIcon {
+  top: 108px;
+  left: 172px;
+  width: 32px;
+  height: 8px;
+}
+.headline {
+  position: absolute;
+  width: 76.8%;
+  top: 12.21%;
+  left: 11.73%;
+  line-height: 29.7px;
+  display: flex;
+  align-items: center;
+}
+.loginButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.getStarted {
+  position: absolute;
+  top: 28.57%;
+  left: 34.36%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.loginButton {
+  position: absolute;
+  height: 21.37%;
+  width: 77.6%;
+  top: 64.89%;
+  right: 11.2%;
+  bottom: 13.74%;
+  left: 11.2%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.group {
+  position: absolute;
+  top: 1647px;
+  left: 1393px;
+  width: 375px;
+  height: 262px;
+  text-align: left;
+  font-family: var(--font-raleway);
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa,
+.topBar {
+  position: absolute;
+  width: 375px;
+  height: 44px;
+}
+.iphoneXstatusBarsstatusBa {
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  overflow: hidden;
+}
+.topBar {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.headline1 {
+  position: absolute;
+  width: 76.8%;
+  top: 12.21%;
+  left: 11.73%;
+  line-height: 29.7px;
+  display: flex;
+  font-family: var(--font-raleway);
+  text-align: left;
+  align-items: center;
+}
+.next {
+  position: absolute;
+  top: 28.57%;
+  left: 37.1%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.loginButton1 {
+  height: 21.37%;
+  width: 38.67%;
+  top: 64.89%;
+  right: 11.2%;
+  bottom: 13.74%;
+  left: 50.13%;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.group1,
+.loginButton1,
+.skip {
+  position: absolute;
+}
+.skip {
+  top: 71.76%;
+  left: 11.2%;
+  font-size: var(--font-size-sm);
+  line-height: 19.6px;
+  color: var(--color-dodgerblue);
+  cursor: pointer;
+}
+.group1 {
+  top: 550px;
+  left: 2px;
+  width: 375px;
+  height: 262px;
+}
+.onboarding6 {
+  position: relative;
+  background: linear-gradient(180deg, #229ade, #226dde);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}

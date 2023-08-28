@@ -1,0 +1,56 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 307px;
+  height: 141px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 29px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-cornflowerblue-100);
+  width: 239px;
+  height: 34px;
+}
+.frameInner {
+  top: 78px;
+}
+.icons8Whatsapp1442 {
+  position: absolute;
+  top: 80px;
+  left: 39px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 36px;
+  left: 108px;
+  font-weight: 600;
+}
+.div1 {
+  top: 85px;
+}
+.icons8Phone641 {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.vectorParent {
+  position: relative;
+  width: 100%;
+  height: 141px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}

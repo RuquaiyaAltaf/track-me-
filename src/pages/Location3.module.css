@@ -1,0 +1,364 @@
+.homeIndicatorChild,
+.mapmapIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.mapmapIcon {
+  height: 812px;
+  object-fit: cover;
+}
+.homeIndicatorChild {
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator,
+.mapIcon,
+.searchChild {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.mapIcon,
+.searchChild {
+  top: 0;
+  height: 812px;
+}
+.searchChild {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 327px;
+  height: 40px;
+}
+.searchLocationZip {
+  position: absolute;
+  top: 13px;
+  left: 42px;
+}
+.iconlylightOutlinesearch {
+  position: absolute;
+  height: 45%;
+  width: 5.5%;
+  top: 27.5%;
+  right: 89.6%;
+  bottom: 27.5%;
+  left: 4.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search {
+  position: absolute;
+  top: 127px;
+  left: 24px;
+  width: 327px;
+  height: 40px;
+  color: var(--color-darkgray-100);
+}
+.rectangle,
+.topBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.topBarChild {
+  background-color: var(--color-white);
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.1);
+  width: 375px;
+  height: 84px;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.buttonIcon {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.ambulance {
+  position: absolute;
+  top: 8px;
+  left: 138px;
+  line-height: 24.3px;
+}
+.buttonParent {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 375px;
+  height: 40px;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar,
+.topBar1,
+.topBar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar2 {
+  height: 44px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.topBar,
+.topBar1 {
+  height: 84px;
+}
+.topBar {
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.buttonConfirmChild,
+.confirmYourAddressChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 355px;
+  height: 179px;
+}
+.buttonConfirmChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+  width: 327px;
+  height: 50px;
+}
+.confirmLocation {
+  position: absolute;
+  top: 17px;
+  left: 105px;
+  font-weight: 600;
+}
+.buttonConfirm {
+  position: absolute;
+  top: 115px;
+  left: 14px;
+  width: 327px;
+  height: 50px;
+}
+.abcdRd102 {
+  position: absolute;
+  top: 0;
+  left: 43px;
+  line-height: 19px;
+  display: inline-block;
+  width: 258px;
+}
+.iconlyboldlocation {
+  position: absolute;
+  height: 68.42%;
+  width: 8.64%;
+  top: 15.79%;
+  right: 91.36%;
+  bottom: 15.79%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.abcdRd102AlexandriaVirgiParent {
+  position: absolute;
+  top: 62px;
+  left: 27px;
+  width: 301px;
+  height: 38px;
+  color: #555;
+}
+.line {
+  position: absolute;
+  top: 46px;
+  left: 10px;
+  background-color: var(--color-azure);
+  width: 335px;
+  height: 1px;
+}
+.confirmYourAddress1 {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-weight: 600;
+  color: var(--color-gray-500);
+}
+.confirmYourAddress {
+  position: absolute;
+  top: 606px;
+  left: 10px;
+  width: 355px;
+  height: 179px;
+  font-size: var(--font-size-sm);
+}
+.icons8Whatsapp1441 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.frameChild,
+.icons8Whatsapp1441Wrapper {
+  position: absolute;
+  top: 662px;
+  left: 298px;
+  width: 50px;
+  height: 50px;
+}
+.frameChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 307px;
+  height: 141px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 29px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  background-color: #0c82c3;
+  width: 239px;
+  height: 34px;
+}
+.frameInner {
+  top: 78px;
+  background-color: #077bbc;
+}
+.icons8Phone641,
+.icons8Whatsapp1442 {
+  position: absolute;
+  top: 32px;
+  left: 39px;
+  width: 27px;
+  height: 27px;
+  object-fit: cover;
+}
+.icons8Whatsapp1442 {
+  top: 80px;
+  width: 30px;
+  height: 30px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 36px;
+  left: 108px;
+  font-weight: 600;
+}
+.div1 {
+  top: 85px;
+}
+.vectorParent {
+  position: absolute;
+  top: 299px;
+  left: 31px;
+  width: 307px;
+  height: 141px;
+  font-size: var(--font-size-base);
+}
+.location {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}

@@ -1,0 +1,519 @@
+.homeIndicatorChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator,
+.loginChild {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.loginChild {
+  top: 455.5px;
+  left: 23.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+  display: none;
+}
+.loginItem {
+  top: 440px;
+  left: 161px;
+  background-color: var(--color-white);
+  width: 53px;
+  height: 31px;
+  display: none;
+}
+.frameChild,
+.loginItem,
+.or {
+  position: absolute;
+}
+.frameChild {
+  top: 11.5px;
+  left: 0;
+  width: 137px;
+  height: 1px;
+}
+.or {
+  top: calc(50% - 12px);
+  left: calc(50% - 11.5px);
+  line-height: 24px;
+}
+.frameItem,
+.vectorParent {
+  position: absolute;
+  top: 11.5px;
+  left: 190px;
+  width: 137px;
+  height: 1px;
+}
+.vectorParent {
+  top: 507px;
+  left: 24px;
+  width: 327px;
+  height: 24px;
+  color: var(--color-darkgray-200);
+}
+.roundedRectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.signInWith {
+  position: absolute;
+  top: 28.57%;
+  left: 27.52%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.googleIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 5.99%;
+  top: 32.14%;
+  right: 88.51%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithGoogle {
+  position: absolute;
+  top: 558px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+}
+.signInWith1 {
+  position: absolute;
+  top: 28.57%;
+  left: 29.05%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.appleIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 5.15%;
+  top: 32.14%;
+  right: 89.35%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithApple {
+  position: absolute;
+  top: 630px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+}
+.signInWith2 {
+  position: absolute;
+  top: 28.57%;
+  left: 24.77%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.facebookIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 6.12%;
+  top: 32.14%;
+  right: 88.38%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithFacebook {
+  position: absolute;
+  top: 702px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+}
+.dontHaveAn,
+.signUp {
+  position: relative;
+  line-height: 22.5px;
+}
+.dontHaveAn {
+  letter-spacing: 0.5px;
+}
+.signUp {
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+}
+.signupLink {
+  position: absolute;
+  top: 455px;
+  left: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-mini);
+  color: var(--color-slategray);
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.button,
+.buttonChild,
+.login1 {
+  position: absolute;
+}
+.login1 {
+  top: 28.57%;
+  left: 43.43%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  top: 375px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.roundedRectangle3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 112.5%;
+  right: 0;
+  bottom: -112.5%;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.enterYourPassword {
+  position: absolute;
+  top: 135.71%;
+  left: 19.57%;
+  line-height: 24px;
+}
+.iconEyeSlash,
+.iconPassword {
+  position: absolute;
+  height: 42.86%;
+  width: 7.34%;
+  top: 135.71%;
+  right: 7.34%;
+  bottom: -78.57%;
+  left: 85.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconPassword {
+  right: 85.32%;
+  left: 7.34%;
+}
+.password,
+.roundedRectangle4 {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.roundedRectangle4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.enterYourEmail,
+.iconEmail {
+  position: absolute;
+  top: 28.57%;
+}
+.enterYourEmail {
+  left: 19.57%;
+  line-height: 24px;
+}
+.iconEmail {
+  height: 42.86%;
+  width: 7.34%;
+  right: 85.32%;
+  bottom: 28.57%;
+  left: 7.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.email {
+  position: absolute;
+  top: 63px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.groupChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.email1,
+.email2,
+.groupChild {
+  position: absolute;
+}
+.email2 {
+  top: 0;
+  left: 0;
+  line-height: 19.6px;
+  font-weight: 500;
+}
+.email1 {
+  height: 39.22%;
+  width: 8.87%;
+  top: 31.37%;
+  right: 71.87%;
+  bottom: 29.41%;
+  left: 19.27%;
+}
+.roundedRectangle5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.05);
+}
+.phone,
+.phone1 {
+  position: absolute;
+}
+.phone1 {
+  top: 27.91%;
+  left: 29.14%;
+  line-height: 19.6px;
+  font-weight: 600;
+}
+.phone {
+  height: 84.31%;
+  width: 46.18%;
+  top: 7.84%;
+  right: 1.22%;
+  bottom: 7.84%;
+  left: 52.6%;
+  text-align: center;
+  color: var(--color-dodgerblue);
+}
+.rectangleParent {
+  position: absolute;
+  height: 39.84%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 60.16%;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.form {
+  position: absolute;
+  top: 124px;
+  left: 24px;
+  width: 327px;
+  height: 128px;
+  text-align: left;
+  color: var(--color-darkgray-200);
+}
+.forgotPassword {
+  position: absolute;
+  top: 39.78%;
+  left: 62.4%;
+  font-size: var(--font-size-sm);
+  line-height: 19.6px;
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+  text-align: right;
+  cursor: pointer;
+}
+.rectangle {
+  position: absolute;
+  height: 119.05%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -19.05%;
+  left: 0;
+}
+.login2 {
+  position: absolute;
+  top: 8px;
+  left: 164px;
+  line-height: 24.3px;
+}
+.loginWrapper,
+.rectangle1 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 375px;
+  height: 40px;
+}
+.rectangle1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar1 {
+  height: 44px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.login,
+.topBar,
+.topBar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar {
+  height: 84px;
+  font-size: var(--font-size-lg);
+}
+.login {
+  background-color: var(--color-white);
+  height: 812px;
+  overflow: hidden;
+}
+.loginParent {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-raleway);
+}

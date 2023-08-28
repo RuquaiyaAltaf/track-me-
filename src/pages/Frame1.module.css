@@ -1,0 +1,15 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-4xs);
+  background-color: #c4d8b1;
+  width: 166px;
+  height: 39px;
+}
+.rectangleParent {
+  position: relative;
+  width: 100%;
+  height: 39px;
+  opacity: 0.5;
+}

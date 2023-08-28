@@ -1,0 +1,341 @@
+.topDoctorChild {
+  position: absolute;
+  top: 225px;
+  left: 20px;
+  border-radius: 11.13px;
+  background-color: var(--color-cornflowerblue-200);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 327px;
+  height: 125px;
+  cursor: pointer;
+}
+.location {
+  position: absolute;
+  top: 273px;
+  left: 164px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  display: none;
+}
+.topDoctorItem {
+  position: absolute;
+  top: 232px;
+  left: 32px;
+  border-radius: var(--br-5xs);
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  height: 19.12%;
+  width: 6.84%;
+  top: 80.88%;
+  right: 93.16%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.drMarcusHorizon {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-weight: 600;
+  display: inline-block;
+  width: 182px;
+}
+.groupParent {
+  position: absolute;
+  height: 8.37%;
+  width: 50.67%;
+  top: 32.88%;
+  right: 6.4%;
+  bottom: 58.74%;
+  left: 42.93%;
+  color: var(--color-gray-400);
+}
+.doctor8Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 11.13px;
+  background-color: #0a7fd4;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 327px;
+  height: 125px;
+}
+.doctor8Item {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  border-radius: var(--br-5xs);
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+}
+.groupContainer {
+  position: absolute;
+  height: 54.4%;
+  width: 58.1%;
+  top: 33.6%;
+  right: 0;
+  bottom: 12%;
+  left: 41.9%;
+}
+.doctor6Child,
+.doctor8 {
+  position: absolute;
+  top: 361px;
+  left: 24px;
+  width: 327px;
+  height: 125px;
+}
+.doctor6Child {
+  top: 0;
+  left: 0;
+  border-radius: 11.13px;
+  background-color: var(--color-deepskyblue);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.drMarcusHorizon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 182px;
+}
+.drMarcusHorizonDWrapper {
+  position: absolute;
+  top: 52px;
+  left: 142px;
+  width: 182px;
+  height: 21px;
+}
+.doctor6,
+.doctor9Child {
+  position: absolute;
+  width: 327px;
+  height: 125px;
+}
+.doctor6 {
+  top: 498px;
+  left: 24px;
+  color: var(--color-gray-100);
+}
+.doctor9Child {
+  top: 0;
+  left: 0;
+  border-radius: 11.13px;
+  background-color: #78c4fc;
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.doctor9Item {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  border-radius: var(--br-5xs);
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  height: 22.41%;
+  width: 7.07%;
+  top: 77.59%;
+  right: 92.93%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.drMarcusHorizon3 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  font-weight: 600;
+  display: inline-block;
+  width: 182px;
+}
+.groupDiv {
+  position: absolute;
+  height: 46.4%;
+  width: 56.27%;
+  top: 48%;
+  right: 1.83%;
+  bottom: 5.6%;
+  left: 41.9%;
+}
+.doctor9 {
+  position: absolute;
+  top: 635px;
+  left: 20px;
+  width: 327px;
+  height: 125px;
+  color: #fdfeff;
+}
+.rectangle {
+  position: absolute;
+  height: 119.05%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -19.05%;
+  left: 0;
+}
+.rectangle1,
+.topBarChild {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 375px;
+  height: 40px;
+}
+.rectangle1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar,
+.topBar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+}
+.topBar {
+  height: 84px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-dodgerblue);
+}
+.button,
+.buttonChild,
+.verify {
+  position: absolute;
+}
+.verify {
+  top: 28.57%;
+  left: 14.07%;
+  line-height: 24px;
+}
+.button {
+  top: 117px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+}
+.topDoctor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 812px;
+  overflow: hidden;
+}
+.topDoctorParent {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}

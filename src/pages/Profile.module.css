@@ -1,0 +1,221 @@
+.bg,
+.navebarbottombarIcon {
+  position: absolute;
+  top: 673px;
+  left: 0;
+  width: 375px;
+  height: 139px;
+}
+.bg {
+  top: 0;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-white);
+  height: 459px;
+}
+.groupChild,
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  top: 87px;
+  left: 20px;
+  background-color: var(--color-azure);
+  width: 335px;
+  height: 1px;
+}
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  top: 157px;
+}
+.groupInner,
+.rectangleDiv {
+  top: 227px;
+}
+.rectangleDiv {
+  top: 297px;
+}
+.logoutChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 43px;
+  height: 43px;
+}
+.iconlylightOutlinearrowR {
+  position: absolute;
+  top: 10px;
+  left: 311px;
+  width: 24px;
+  height: 24px;
+}
+.faqs,
+.logout {
+  position: absolute;
+  left: 20px;
+  width: 335px;
+  height: 43px;
+}
+.logout {
+  top: 241px;
+  color: var(--color-tomato);
+}
+.faqs {
+  top: 171px;
+}
+.appointmnet {
+  position: absolute;
+  top: 12px;
+  left: 61px;
+  font-weight: 600;
+}
+.appointment,
+.bgParent,
+.mySave {
+  position: absolute;
+  top: 101px;
+  left: 20px;
+  width: 335px;
+  height: 43px;
+}
+.bgParent,
+.mySave {
+  top: 31px;
+}
+.bgParent {
+  top: 353px;
+  left: 0;
+  width: 375px;
+  height: 459px;
+  color: var(--color-gray-500);
+}
+.ameliaRenata {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  font-weight: 600;
+}
+.imageIcon,
+.profile1 {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 81px;
+  height: 82px;
+}
+.profile1 {
+  top: 88px;
+  left: 124px;
+  width: 124px;
+  height: 120px;
+  font-size: var(--font-size-lg);
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.component1Icon,
+.topBar {
+  position: absolute;
+  top: 69px;
+  left: 351px;
+  width: 4px;
+  height: 16px;
+}
+.topBar {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.profile {
+  position: relative;
+  background: linear-gradient(113.41deg, #229ade, #226dde);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}

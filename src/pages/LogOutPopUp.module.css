@@ -1,0 +1,446 @@
+.bg,
+.navebarIcon {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.bg {
+  top: 353px;
+  border-radius: var(--br-11xl) var(--br-11xl) 0 0;
+  background-color: var(--color-white);
+  height: 459px;
+}
+.navebarIcon {
+  top: 673px;
+  height: 139px;
+}
+.contentChild,
+.contentInner,
+.contentItem,
+.rectangleDiv {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  background-color: var(--color-azure);
+  width: 335px;
+  height: 1px;
+}
+.contentInner,
+.contentItem,
+.rectangleDiv {
+  top: 126px;
+}
+.contentInner,
+.rectangleDiv {
+  top: 196px;
+}
+.rectangleDiv {
+  top: 266px;
+}
+.logoutChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 43px;
+  height: 43px;
+}
+.iconlylightOutlinearrowR {
+  position: absolute;
+  top: 10px;
+  left: 311px;
+  width: 24px;
+  height: 24px;
+}
+.faqs,
+.logout {
+  position: absolute;
+  left: 0;
+  width: 335px;
+  height: 43px;
+}
+.logout {
+  top: 280px;
+  color: var(--color-tomato);
+}
+.faqs {
+  top: 210px;
+}
+.iconlylightOutlinearrowR2 {
+  position: absolute;
+  top: 9px;
+  left: 311px;
+  width: 24px;
+  height: 24px;
+}
+.paymentMethod {
+  position: absolute;
+  top: 12px;
+  left: 61px;
+  font-weight: 600;
+}
+.appointment,
+.content,
+.mySave,
+.payment {
+  position: absolute;
+  top: 140px;
+  left: 0;
+  width: 335px;
+  height: 43px;
+}
+.appointment,
+.content,
+.mySave {
+  top: 70px;
+}
+.content,
+.mySave {
+  top: 0;
+}
+.content {
+  top: 384px;
+  left: 20px;
+  height: 323px;
+  color: var(--color-gray-500);
+}
+.cal,
+.calories {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  font-weight: 600;
+}
+.calories {
+  top: 0;
+  left: 6px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-paleturquoise);
+}
+.calParent {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  width: 53px;
+  height: 34px;
+}
+.fireIcon,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 32px;
+  height: 32px;
+}
+.groupParent {
+  left: 124px;
+  width: 53px;
+  height: 71px;
+}
+.heartRate {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  color: var(--color-paleturquoise);
+}
+.bpmParent {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  width: 63px;
+  height: 34px;
+}
+.groupContainer,
+.heartbeatIcon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 32px;
+  height: 32px;
+}
+.groupContainer {
+  left: 0;
+  width: 63px;
+  height: 71px;
+}
+.weight {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-size: var(--font-size-3xs);
+  font-weight: 600;
+  color: var(--color-paleturquoise);
+}
+.groupDiv,
+.lbsParent {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  width: 52px;
+  height: 34px;
+}
+.groupDiv {
+  top: 0;
+  left: 238px;
+  height: 71px;
+}
+.healthTrackingChild,
+.healthTrackingItem {
+  position: absolute;
+  top: 14px;
+  left: 93px;
+  background-color: var(--color-paleturquoise);
+  width: 1px;
+  height: 44px;
+}
+.healthTrackingItem {
+  left: 207px;
+}
+.healthTracking {
+  position: absolute;
+  top: 239px;
+  left: 42px;
+  width: 290px;
+  height: 71px;
+}
+.ameliaRenata {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  font-weight: 600;
+}
+.imageIcon,
+.profile {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 80px;
+  height: 80px;
+}
+.profile {
+  top: 88px;
+  left: 124px;
+  width: 125px;
+  height: 121px;
+  font-size: var(--font-size-lg);
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.component1Icon {
+  position: absolute;
+  top: 69px;
+  left: 351px;
+  width: 4px;
+  height: 16px;
+}
+.overlay,
+.topBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar {
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.overlay {
+  background-color: var(--color-gray-500);
+  height: 812px;
+  opacity: 0.3;
+}
+.popUpChild {
+  position: absolute;
+  height: 23.73%;
+  width: 31.5%;
+  top: 11.98%;
+  right: 34.56%;
+  bottom: 64.29%;
+  left: 33.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.areYouSure {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 25px;
+  display: inline-block;
+  width: 263px;
+}
+.text {
+  position: absolute;
+  height: 11.52%;
+  width: 80.43%;
+  top: 47.93%;
+  right: 9.79%;
+  bottom: 40.55%;
+  left: 9.79%;
+  font-size: var(--font-size-xl);
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-tomato);
+}
+.button,
+.buttonChild,
+.logOut {
+  position: absolute;
+}
+.logOut {
+  top: 28.57%;
+  left: 38.83%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  height: 12.9%;
+  width: 83.49%;
+  top: 66.82%;
+  right: 8.26%;
+  bottom: 20.28%;
+  left: 8.26%;
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.buttonItem {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 32px;
+  background-color: #f5f8ff;
+  display: none;
+}
+.cancel {
+  top: 28.57%;
+  left: 34.86%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button1,
+.cancel,
+.popUp {
+  position: absolute;
+}
+.button1 {
+  height: 12.9%;
+  width: 55.96%;
+  top: 79.72%;
+  right: 22.02%;
+  bottom: 7.37%;
+  left: 22.02%;
+  color: var(--color-dodgerblue);
+}
+.popUp {
+  top: 189px;
+  left: 24px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  width: 327px;
+  height: 434px;
+  text-align: center;
+  color: var(--color-gray-500);
+}
+.logOutPopUp {
+  position: relative;
+  background: linear-gradient(113.41deg, #229ade, #226dde);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

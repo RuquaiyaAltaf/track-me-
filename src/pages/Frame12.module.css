@@ -1,0 +1,557 @@
+.homeIndicatorChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator {
+  position: absolute;
+  top: 776px;
+  left: 1px;
+  width: 375px;
+  height: 36px;
+}
+.roundedRectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.signInWith {
+  position: absolute;
+  top: 28.57%;
+  left: 24.77%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.facebookIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 6.12%;
+  top: 32.14%;
+  right: 88.38%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithFacebook {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.signInWith1 {
+  position: absolute;
+  top: 28.57%;
+  left: 29.05%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.appleIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 5.15%;
+  top: 32.14%;
+  right: 89.35%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithApple {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.signInWith2 {
+  position: absolute;
+  top: 28.57%;
+  left: 27.52%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.googleIcon {
+  position: absolute;
+  height: 35.71%;
+  width: 5.99%;
+  top: 32.14%;
+  right: 88.51%;
+  bottom: 32.14%;
+  left: 5.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonWithGoogle,
+.buttons {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.buttons {
+  top: 55px;
+  height: 200px;
+}
+.orChild {
+  top: 15.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.or1,
+.orChild,
+.orItem {
+  position: absolute;
+}
+.orItem {
+  top: 0;
+  left: 137px;
+  background-color: var(--color-white);
+  width: 53px;
+  height: 31px;
+}
+.or1 {
+  top: calc(50% - 11.5px);
+  left: calc(50% - 11.5px);
+  line-height: 24px;
+  font-weight: 500;
+}
+.loginOptions,
+.or {
+  position: absolute;
+  left: 0;
+  width: 327px;
+}
+.or {
+  top: 0;
+  height: 31px;
+  color: var(--color-darkgray-200);
+}
+.loginOptions {
+  top: 316px;
+  height: 255px;
+}
+.dontHaveAn {
+  letter-spacing: 0.5px;
+  line-height: 22.5px;
+}
+.span {
+  line-height: 19.4px;
+}
+.signUp {
+  line-height: 22.5px;
+  font-weight: 500;
+  font-family: var(--font-raleway);
+  color: var(--color-dodgerblue);
+}
+.dontHaveAnContainer {
+  position: absolute;
+  top: 268px;
+  left: 48px;
+  font-size: var(--font-size-mini);
+  color: var(--color-slategray);
+}
+.buttonChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.button,
+.buttonChild,
+.login {
+  position: absolute;
+}
+.login {
+  top: 28.57%;
+  left: 43.43%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  top: 188px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+  color: var(--color-white);
+}
+.forgotPassword {
+  position: absolute;
+  top: 23.82%;
+  left: 64.22%;
+  font-size: var(--font-size-sm);
+  line-height: 19.6px;
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+  text-align: right;
+}
+.roundedRectangle3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.placeholderChild {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gray-500);
+  width: 8px;
+  height: 8px;
+}
+.placeholder {
+  position: absolute;
+  height: 14.29%;
+  width: 28.13%;
+  top: 42.86%;
+  right: 52.29%;
+  bottom: 42.86%;
+  left: 19.57%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.iconPassword {
+  height: 42.86%;
+  width: 7.34%;
+  right: 85.32%;
+  bottom: 28.57%;
+  left: 7.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconEyeSlash,
+.iconPassword,
+.xyzgmailcom {
+  position: absolute;
+  top: 28.57%;
+}
+.iconEyeSlash {
+  height: 42.86%;
+  width: 7.34%;
+  right: 7.34%;
+  bottom: 28.57%;
+  left: 85.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.xyzgmailcom {
+  left: 19.57%;
+  line-height: 24px;
+  font-weight: 500;
+}
+.iconCheck {
+  position: absolute;
+  height: 28.57%;
+  width: 4.89%;
+  top: 35.71%;
+  right: 7.34%;
+  bottom: 35.71%;
+  left: 87.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.inputFields {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 327px;
+  height: 128px;
+  text-align: left;
+}
+.loginOptionsParent {
+  position: absolute;
+  top: 124px;
+  left: 25px;
+  width: 327px;
+  height: 571px;
+}
+.buttonIcon,
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle {
+  height: 119.05%;
+  width: 100%;
+  right: 0;
+  bottom: -19.05%;
+}
+.buttonIcon {
+  width: 40px;
+  height: 40px;
+}
+.login1 {
+  position: absolute;
+  top: 8px;
+  left: 140px;
+  line-height: 24.3px;
+}
+.rectangle1,
+.top,
+.topWrapper {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 189px;
+  height: 40px;
+}
+.rectangle1,
+.topWrapper {
+  top: 44px;
+  left: 0;
+  width: 375px;
+}
+.rectangle1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar1 {
+  left: 0;
+  height: 44px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.overlay,
+.topBar,
+.topBar1 {
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+.topBar {
+  left: 1px;
+  height: 84px;
+  font-size: var(--font-size-lg);
+}
+.overlay {
+  left: 0;
+  background-color: var(--color-gray-500);
+  height: 812px;
+  opacity: 0.3;
+}
+.content {
+  position: absolute;
+  top: 36px;
+  left: 24px;
+  width: 279px;
+  height: 329px;
+}
+.goToHome {
+  position: absolute;
+  top: 28.57%;
+  left: 33.97%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button1 {
+  position: absolute;
+  height: 13.97%;
+  width: 85.32%;
+  top: 77.06%;
+  right: 7.34%;
+  bottom: 8.98%;
+  left: 7.34%;
+  cursor: pointer;
+}
+.onceAgainYou {
+  margin: 0;
+}
+.onceAgainYouContainer {
+  position: absolute;
+  top: 33px;
+  left: -1px;
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  display: inline-block;
+  width: 275px;
+}
+.yeayWelcomeBack {
+  top: 0;
+  left: 31px;
+  font-size: var(--font-size-xl);
+  line-height: 25px;
+  display: inline-block;
+  color: var(--color-gray-500);
+  width: 211px;
+}
+.doneIcon,
+.text,
+.yeayWelcomeBack {
+  position: absolute;
+}
+.text {
+  height: 20.2%;
+  width: 83.79%;
+  top: 50.87%;
+  right: 8.26%;
+  bottom: 28.93%;
+  left: 7.95%;
+  color: var(--color-darkgray-200);
+}
+.doneIcon {
+  height: 25.44%;
+  width: 31.19%;
+  top: 15.46%;
+  right: 34.56%;
+  bottom: 59.1%;
+  left: 34.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.popUp {
+  position: absolute;
+  top: 205px;
+  left: 25px;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  width: 327px;
+  height: 401px;
+  color: var(--color-white);
+}
+.frameWrapper,
+.loginSuccess,
+.loginSuccessInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 376px;
+  height: 812px;
+}
+.loginSuccess,
+.loginSuccessInner {
+  left: -1px;
+}
+.loginSuccess {
+  left: 0;
+  background-color: var(--color-white);
+  width: 375px;
+  overflow: hidden;
+}
+.loginSuccessParent {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-raleway);
+}

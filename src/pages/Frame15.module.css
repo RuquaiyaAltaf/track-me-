@@ -1,0 +1,159 @@
+.homeIndicatorChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator,
+.logoIcon {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.logoIcon {
+  height: 63.41%;
+  width: 54.1%;
+  top: 0;
+  right: 22.04%;
+  bottom: 36.59%;
+  left: 23.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.helthio,
+.logo,
+.rectangle {
+  position: absolute;
+  top: 71.22%;
+  left: 0;
+}
+.logo,
+.rectangle {
+  height: 25.25%;
+  width: 58.13%;
+  top: 37.32%;
+  right: 21.33%;
+  bottom: 37.44%;
+  left: 20.53%;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.splashScreen,
+.topBar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar {
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.splashScreen {
+  background-color: var(--color-dodgerblue);
+  height: 812px;
+  overflow: hidden;
+}
+.splashScreenParent {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}

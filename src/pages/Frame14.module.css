@@ -1,0 +1,201 @@
+.image,
+.image11Icon,
+.rectangle {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.image11Icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image,
+.rectangle {
+  height: 65.39%;
+  top: 8.13%;
+  bottom: 26.48%;
+}
+.rectangle {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-white);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar {
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+}
+.bg,
+.sliderIcon,
+.topBar {
+  position: absolute;
+}
+.bg {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-45xl) 0 0 0;
+  background-color: var(--color-white);
+  width: 375px;
+  height: 262px;
+}
+.sliderIcon {
+  top: 108px;
+  left: 172px;
+  width: 32px;
+  height: 8px;
+}
+.headline {
+  position: absolute;
+  width: 76.8%;
+  top: 12.21%;
+  left: 11.73%;
+  line-height: 29.7px;
+  display: flex;
+  font-family: var(--font-raleway);
+  text-align: left;
+  align-items: center;
+}
+.loginButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.next {
+  position: absolute;
+  top: 28.57%;
+  left: 37.1%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.loginButton {
+  position: absolute;
+  height: 21.37%;
+  width: 38.67%;
+  top: 64.89%;
+  right: 11.2%;
+  bottom: 13.74%;
+  left: 50.13%;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.skip {
+  position: absolute;
+  top: 71.76%;
+  left: 11.2%;
+  font-size: var(--font-size-sm);
+  line-height: 19.6px;
+  color: var(--color-dodgerblue);
+}
+.group,
+.onboarding1 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.group {
+  top: 550px;
+  height: 262px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+}
+.onboarding1 {
+  top: 0;
+  background: linear-gradient(180deg, #229ade, #226dde);
+  height: 812px;
+  overflow: hidden;
+}
+.onboarding1Parent {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

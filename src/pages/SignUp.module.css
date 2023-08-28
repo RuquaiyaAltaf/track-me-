@@ -1,0 +1,376 @@
+.homeIndicatorChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.alreadyHaveAn,
+.logIn {
+  position: relative;
+  line-height: 22.5px;
+}
+.alreadyHaveAn {
+  letter-spacing: 0.5px;
+}
+.logIn {
+  font-weight: 500;
+  color: var(--color-dodgerblue);
+}
+.logInLink {
+  position: absolute;
+  top: 602px;
+  left: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-mini);
+  color: var(--color-slategray);
+}
+.buttonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.signUp1 {
+  position: absolute;
+  top: 28.57%;
+  left: 40.67%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  top: 522px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+  cursor: pointer;
+  color: var(--color-white);
+}
+.roundedRectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.enterYourPassword {
+  position: absolute;
+  top: 28.57%;
+  left: 19.57%;
+  line-height: 24px;
+}
+.iconEyeSlash,
+.iconPassword {
+  position: absolute;
+  height: 42.86%;
+  width: 7.34%;
+  top: 28.57%;
+  right: 7.34%;
+  bottom: 28.57%;
+  left: 85.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconPassword {
+  right: 85.32%;
+  left: 7.34%;
+}
+.inputedittext,
+.inputedittext1,
+.inputedittext2 {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.inputedittext1,
+.inputedittext2 {
+  top: 72px;
+}
+.inputedittext2 {
+  top: 0;
+}
+.iAgreeTo {
+  color: var(--color-darkslategray-100);
+}
+.iAgreeToTheMedidocTermsO {
+  margin: 0;
+}
+.iAgreeToContainer {
+  position: absolute;
+  width: calc(100% - 40px);
+  top: 0;
+  left: 40px;
+  line-height: 21px;
+  display: inline-block;
+}
+.checkboxIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.termsOfServicePrivacyAgr {
+  position: absolute;
+  width: 100%;
+  top: 216px;
+  right: 0;
+  left: 0;
+  height: 42px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dodgerblue);
+}
+.form {
+  position: absolute;
+  top: 216px;
+  left: 24px;
+  width: 327px;
+  height: 258px;
+  text-align: left;
+}
+.groupChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-whitesmoke-100);
+}
+.email,
+.email1,
+.groupChild {
+  position: absolute;
+}
+.email1 {
+  top: 0;
+  left: 0;
+  line-height: 19.6px;
+  font-weight: 500;
+}
+.email {
+  height: 39.22%;
+  width: 8.87%;
+  top: 31.37%;
+  right: 71.87%;
+  bottom: 29.41%;
+  left: 19.27%;
+}
+.roundedRectangle3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.05);
+}
+.phone,
+.phone1 {
+  position: absolute;
+}
+.phone1 {
+  top: 27.91%;
+  left: 29.14%;
+  line-height: 19.6px;
+  font-weight: 600;
+}
+.phone {
+  height: 84.31%;
+  width: 46.18%;
+  top: 7.84%;
+  right: 1.22%;
+  bottom: 7.84%;
+  left: 52.6%;
+  text-align: center;
+  color: var(--color-dodgerblue);
+}
+.rectangleParent {
+  position: absolute;
+  height: 6.28%;
+  width: 87.2%;
+  top: 16.38%;
+  right: 6.67%;
+  bottom: 77.34%;
+  left: 6.13%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+}
+.rectangle {
+  position: absolute;
+  height: 119.05%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -19.05%;
+  left: 0;
+}
+.buttonIcon {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+.signUp2 {
+  position: absolute;
+  top: 8px;
+  left: 155px;
+  line-height: 24.3px;
+}
+.buttonParent,
+.rectangle1 {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  width: 375px;
+  height: 40px;
+}
+.rectangle1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar,
+.topBar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar1 {
+  height: 44px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.topBar {
+  height: 84px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.signUp {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-raleway);
+}

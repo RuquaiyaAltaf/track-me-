@@ -1,0 +1,413 @@
+.homeIndicatorChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.homeIndicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67.5px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-darkslategray-200);
+  width: 134px;
+  height: 5px;
+}
+.homeIndicator {
+  position: absolute;
+  top: 776px;
+  left: 0;
+  width: 375px;
+  height: 36px;
+}
+.dontHaveAn {
+  letter-spacing: 0.5px;
+  line-height: 22.5px;
+}
+.span {
+  line-height: 19.4px;
+}
+.signUp {
+  line-height: 22.5px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-dodgerblue);
+}
+.dontHaveAnContainer {
+  position: absolute;
+  top: 368px;
+  left: 45px;
+  font-size: var(--font-size-mini);
+}
+.buttonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-dodgerblue);
+}
+.signUp1 {
+  position: absolute;
+  top: 28.57%;
+  left: 40.67%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  top: 288px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+  color: var(--color-white);
+}
+.termsOfService {
+  color: var(--color-dodgerblue);
+}
+.iAgreeToContainer {
+  position: absolute;
+  width: calc(100% - 40px);
+  top: 0;
+  left: 40px;
+  line-height: 18.2px;
+  display: inline-block;
+}
+.checkboxIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.termsOfServicePrivacyAgr {
+  position: absolute;
+  width: 100%;
+  top: 216px;
+  right: 0;
+  left: 0;
+  height: 37px;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkslategray-100);
+}
+.roundedRectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-dodgerblue);
+  box-sizing: border-box;
+}
+.placeholderChild {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gray-500);
+  width: 8px;
+  height: 8px;
+}
+.placeholder {
+  position: absolute;
+  height: 14.29%;
+  width: 28.13%;
+  top: 42.86%;
+  right: 52.29%;
+  bottom: 42.86%;
+  left: 19.57%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.iconEyeSlash,
+.iconPassword {
+  position: absolute;
+  height: 42.86%;
+  width: 7.34%;
+  top: 28.57%;
+  right: 85.32%;
+  bottom: 28.57%;
+  left: 7.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconEyeSlash {
+  right: 7.34%;
+  left: 85.32%;
+}
+.input {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.xyzgmailcom {
+  position: absolute;
+  top: 28.57%;
+  left: 19.57%;
+  line-height: 24px;
+  font-weight: 500;
+}
+.iconCheck {
+  position: absolute;
+  height: 28.57%;
+  width: 4.89%;
+  top: 35.71%;
+  right: 7.34%;
+  bottom: 35.71%;
+  left: 87.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input1,
+.input2,
+.inputFields {
+  position: absolute;
+  top: 72px;
+  left: 0;
+  width: 327px;
+  height: 56px;
+}
+.input2,
+.inputFields {
+  top: 0;
+}
+.inputFields {
+  height: 252px;
+  text-align: left;
+  color: var(--color-gray-500);
+}
+.dontHaveAnAccountSignUpParent,
+.rectangle {
+  position: absolute;
+  top: 124px;
+  left: 24px;
+  width: 327px;
+  height: 391px;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.buttonIcon {
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.buttonIcon,
+.signUp2,
+.top {
+  position: absolute;
+}
+.signUp2 {
+  top: 4px;
+  left: 129px;
+  letter-spacing: 0.3px;
+  line-height: 24.3px;
+}
+.top {
+  top: 52px;
+  left: 24px;
+  width: 199px;
+  height: 40px;
+}
+.border,
+.capIcon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.capIcon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-gray-500);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifiIcon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellularConnectionIcon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.time,
+.timeStyle {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  letter-spacing: -0.28px;
+  display: inline-block;
+}
+.timeStyle {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphoneXstatusBarsstatusBa {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.topBar1 {
+  height: 44px;
+  font-size: var(--font-size-sm);
+}
+.overlay,
+.topBar,
+.topBar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+}
+.topBar {
+  height: 100px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-500);
+}
+.overlay {
+  background-color: var(--color-gray-500);
+  height: 812px;
+  opacity: 0.3;
+}
+.goToHome {
+  position: absolute;
+  top: 28.57%;
+  left: 33.97%;
+  line-height: 24px;
+  font-weight: 600;
+}
+.button1 {
+  position: absolute;
+  height: 13.97%;
+  width: 85.32%;
+  top: 73.82%;
+  right: 7.34%;
+  bottom: 12.22%;
+  left: 7.34%;
+  cursor: pointer;
+}
+.success {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  line-height: 25px;
+  display: inline-block;
+  width: 211px;
+}
+.yourAccountHas {
+  margin: 0;
+}
+.yourAccountHasContainer {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.5px;
+  line-height: 24px;
+  color: var(--color-darkgray-200);
+  display: inline-block;
+  width: 279px;
+}
+.doneIcon,
+.text {
+  position: absolute;
+}
+.text {
+  height: 20.2%;
+  width: 85.32%;
+  top: 47.63%;
+  right: 7.34%;
+  bottom: 32.17%;
+  left: 7.34%;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-500);
+}
+.doneIcon {
+  height: 25.44%;
+  width: 31.19%;
+  top: 12.22%;
+  right: 34.56%;
+  bottom: 62.34%;
+  left: 34.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.popUp,
+.signUpSuccess {
+  background-color: var(--color-white);
+}
+.popUp {
+  position: absolute;
+  top: 205px;
+  left: 24px;
+  border-radius: var(--br-5xl);
+  width: 327px;
+  height: 401px;
+  color: var(--color-white);
+  font-family: var(--font-raleway);
+}
+.signUpSuccess {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray);
+  font-family: var(--font-inter);
+}
